@@ -2,19 +2,19 @@
 This project was created by a team of 4 people and is specifically for academic course purposes in Astana IT University.
 BildSpace — the system which helps Kazakhstan’s tourism to grow through complex application and website
 
-![image](https://psv4.userapi.com/c237131/u662003914/docs/d10/6e27b1c973d7/222.png?extra=e3FC92CBEWcnQytl4q8i9MjjKWVkhz_1Hz2uOypWbZJjCR5PUG6Adc5EtnfXm-ZxSX9_0E630Cc0KtGZeJav5AJC3fxUK-qNJ3SHPdumN5VQmj46yOAiXyUtEbZE6j0vtENv4EgnRCAP4IUayD86dEFUqRnY)
+![222](https://user-images.githubusercontent.com/104006223/181627389-ecbd58a9-bd61-4757-8263-31ca2ce57f91.png)
 
 #### with adaptation to mobile phones
 #### Team members: designer, front-end, back-end, ios-developer. My position was front-end developer and web-designer!
 
-![image](https://psv4.userapi.com/c235131/u662003914/docs/d46/dcb165acdf93/12.png?extra=-oFoKjeiiTKNhQdphstIxaNXwwJ4DqBfeX5PWRLXDDMV1VcULcnlZUrbvO5iKCRjClhn4rvc8tIt9tsd2fpcLADLbjRC2YkYdqb9PJMYtx838RrXPp2ejaSmnu-2iKkO4zAIU79rbztPFkumMpqs03z3Cjfz)
+![12](https://user-images.githubusercontent.com/104006223/181627407-8a6da8d6-f15d-45b0-9d65-52beae97c139.png)
 
 ### MAIN PART
 #### Methodology:
 During the construction of the website there was used all necessary 
 programming languages such as HTML5, CSS3, JavaScriptm PHP, MySQL and Swift.
 
-![image](https://psv4.userapi.com/c235131/u662003914/docs/d60/b1e9f9fa10da/2222.png?extra=_kec0mQqVVJfv2uBivJNeDhM62cKAznUGVvrhR2k979Qnp6k8Busdem59eKxDB2VTQsBxTi1mGK60C_t51uF6ASML2VF9h-paQuI2YMNSfh6CwqrDE8RqfPAUKBRh2cJD7Ltn2C_-qYLZDrYtTX2Z5eFO1-b)
+![2222](https://user-images.githubusercontent.com/104006223/181627372-5e398cd4-f6ce-4614-aa10-1d920ae7faa0.png)
 
 Over 10+ pages, 20+ different functions were used with all those languages.
 
